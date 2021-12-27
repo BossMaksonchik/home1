@@ -16,14 +16,16 @@ public class Main {
         System.out.println(gram);
         double water = 0.9098;
         System.out.println(water);
+        char a = 'b';
+
 
 
         float boxer1 =  78.2f;
         float boxer2 = 82.7f;
         float difference = boxer2 - boxer1;
-        System.out.print(" Разница в весе между двумя боксерами "+ difference + "кг!");
+        System.out.println(" Разница в весе между двумя боксерами "+ difference + "кг!");
         float total = boxer1 + boxer2;
-        System.out.print(" Общий вес боксеров " + total + " кг ");
+        System.out.println(" Общий вес боксеров " + total + " кг ");
 
 
         byte banana = 5;

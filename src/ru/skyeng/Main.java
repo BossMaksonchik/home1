@@ -17,6 +17,7 @@ public class Main {
         double water = 0.9098;
         System.out.println(water);
         char a = 'b';
+        boolean flag = true;
 
 
 
